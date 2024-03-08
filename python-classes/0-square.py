@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-'''
-empty class
-'''
+'''Here comes the definition of square class'''
 
-class Square:
+
+class Square():
+    '''Here comes the definition of square class'''
     pass
