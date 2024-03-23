@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # alu-higher_level_programming
 
 This repository contains a collection of projects covering various aspects of Python programming. Each folder represents a specific project or topic related to higher-level programming concepts. Below is an overview of each project:
@@ -55,3 +56,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 Loue Sauveur Christian
+=======
+# alu-higher_level_programming
+>>>>>>> 791a485639943b60e4ae75060afc51b22d300838
