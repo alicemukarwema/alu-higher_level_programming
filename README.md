@@ -53,9 +53,4 @@ Feel free to explore each project folder for detailed documentation, code sample
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
 
-Loue Sauveur Christian
-=======
-# alu-higher_level_programming
->>>>>>> 791a485639943b60e4ae75060afc51b22d300838
